@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BancoTerminal",
+            "request": "launch",
+            "mainClass": "com.banco.BancoTerminal",
+            "projectName": "Desafio-Banco-DIO_32281bcd"
+        },
+        {
+            "type": "java",
             "name": "Banco",
             "request": "launch",
             "mainClass": "Banco",
